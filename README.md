@@ -14,5 +14,6 @@ Most of what I build is backend and systems code: server-authoritative networkin
 
 ## Tools
 
-- **Languages:** Python, Java, SQL, Luau/Lua
+- **Languages:** Python, Java, C++, C#, SQL, JavaScript/TypeScript, Luau/Lua
+- **Tools & platforms:** Git/GitHub, Linux, REST APIs, AWS, Google Cloud, Unity, Unreal Engine
 - **Areas:** client-server architecture, concurrency and race conditions, data modeling, input validation, debugging in large codebases
